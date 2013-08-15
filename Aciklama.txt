@@ -1,0 +1,4 @@
+Weka üzerinde Veri Madenciliði algoritmalarý kullanýlarak veri madenciliði çalýþmasý yapýlmýþtýr. 
+Çalýþmanýn amacý elimizde bulanan ilaç veri tabaný ile ilaç yan etkilerinin kiþiler üzerinde hangi 
+yan etkiyi göstereceðini belirleyebilmektir. Þöyle ki 23 yaþýndaki 69 kilodaki bir bayan hasta X ilacýný 
+kullanýrsa þu yan etki görülmektedir. Böylece ilaç kullanýlmadan nasýl bir yan etki göstereceði saptanmaya çalýþýlmaktadýr.
